@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/GuilhermeLamim"><img src="https://api.daily.dev/devcards/d5eb4b34ef464bf6b6747a34c121ae7d.png?r=834" width="400" alt="Guilherme Lamim's Dev Card"/></a>
 <!--
 **GuilhermeJackson/GuilhermeJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
