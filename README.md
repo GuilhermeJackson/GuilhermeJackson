@@ -18,7 +18,7 @@ Sou desenvolvedor front-end e meu propósito é criar soluções modernas e aces
 
 <div align="start">
   <a href="https://github.com/GuilhermeJackson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermejackson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermejackson&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejackson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
