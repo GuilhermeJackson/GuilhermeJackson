@@ -8,7 +8,7 @@
 Sou desenvolvedor front-end e meu propósito é criar soluções modernas e acessíveis para facilitar a vida dos usuários.<br>
 
 
-- <img align="center" alt="Guilherme-Formação" height="30" width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png">Formando em Sistemas de Informação<br>
+- <img align="center" alt="Guilherme-Formação" height="30" width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png">Formado em Sistemas de Informação<br>
 - <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript
 - <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
